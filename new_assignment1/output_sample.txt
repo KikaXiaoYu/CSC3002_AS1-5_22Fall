@@ -1,0 +1,19 @@
+------------------------
+p1_output_sample.txt:
+6 3
+------------------------
+p2_sample_output.txt:
+TTGCC matches TAACGGTACGTC at position 1
+------------------------
+p3_sample_output.txt:
+StH
+this is a testing 1
+this is a testing 2
+
+
+this is a testing 5
+------------------------
+p4_sample_output.txt:
+thi i a teting 1
+thi i a teting 2
+------------------------

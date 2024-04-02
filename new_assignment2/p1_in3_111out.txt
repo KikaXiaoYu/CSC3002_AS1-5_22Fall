@@ -1,0 +1,9 @@
+moonLanding = 20-Jul-0969
+kennedyAssassination = 22-Nov-0208
+moonLanding < kennedyAssassination = false
+moonLanding > kennedyAssassination = true
+moonLanding == kennedyAssassination = false
+moonLanding == moonLanding = true
+inaugurationDay - electionDay = 1461
+New Year's Eve = 22-Nov-0211
+New Year's Day = 23-Nov-0211
